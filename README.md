@@ -10,11 +10,11 @@ Try **bold**, try _italic_, try 'code block'
 ## Notes on uhhappy gitting
 
 * unordered list
-* apples
-* oranges
+  * apples
+  * oranges
 - another unordered
-- apples
-- oranges
+  - apples
+  - oranges
 - and even more 
-1. apples
-2. oranges
+  1. apples
+  2. oranges
