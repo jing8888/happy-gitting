@@ -4,7 +4,7 @@
 
 Try out git and all that
 
-Try **bold**, try _italic_, try 'code block'
+Try **bold**, try _italic_, try `code block`
 
 
 ## Notes on uhhappy gitting
@@ -15,6 +15,6 @@ Try **bold**, try _italic_, try 'code block'
 - another unordered
   - apples
   - oranges
-- and even more 
+- and even more
   1. apples
   2. oranges
