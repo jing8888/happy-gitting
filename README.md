@@ -1,6 +1,6 @@
 # happy-gitting
 
-## Giw ti yse this
+## how to use this
 
 Try out git and all that
 
