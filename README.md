@@ -1,5 +1,6 @@
 # happy-gitting
 
+## all should be Happy
 ## how to use this
 
 Try out git and all that
